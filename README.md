@@ -1,4 +1,4 @@
-# Human-Detection-Using-Drone
+# Human-Detection-Using-Drone-During-Disasters
 
 This project focuses on detecting humans in disaster scenarios using three different methods. The system is designed to send a message to a predefined number whenever a human is detected. The detection methods include:
 
