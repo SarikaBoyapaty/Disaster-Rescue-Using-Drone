@@ -12,7 +12,7 @@ layer_names = net.getLayerNames()
 output_layers = [layer_names[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 
 # Load dataset
-dataset_path = r"C:\Users\latha\Downloads\dataset"
+dataset_path = r"YOUR_PATH"
 image_files = [file for file in os.listdir(dataset_path) if file.endswith((".jpg", ".jpeg"))]
 
 # Loop through images in the dataset
