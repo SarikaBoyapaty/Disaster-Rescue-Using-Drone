@@ -10,7 +10,7 @@ thres = 0.55
 nmsThres = 0.2
 
 # Path to your dataset directory containing images
-dataset_path = r"C:\Users\latha\Downloads\dataset"
+dataset_path = r"YOUR_PATH"
 
 classNames = []
 classFile = 'coco.names'
