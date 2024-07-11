@@ -6,7 +6,7 @@ thres = 0.55
 nmsThres = 0.2
 
 # Path to your video file
-video_path = r"C:\Users\latha\OneDrive\Desktop\WhatsApp Video 2024-04-26 at 14.44.12_e86ddb0a.mp4"
+video_path = r"YOUR_PATH"
 
 classNames = []
 classFile = 'coco.names'
